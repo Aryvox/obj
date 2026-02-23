@@ -1,6 +1,6 @@
 # Blender 4.5.3 LTS
 # www.blender.org
-mtllib Controle_panel.mtl
+mtllib controle_panel.mtl
 o cube
 v 1.533976 0.295406 -0.135012
 v 1.533977 0.295406 -0.866369
