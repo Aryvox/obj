@@ -1,0 +1,14 @@
+# Blender 4.5.3 LTS MTL File: 'control_panel.blend'
+# www.blender.org
+
+newmtl material
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd control_panel_basecolor.png
+map_Ns control_panel_roughness.png
+map_refl control_panel_metallic.png
+map_Bump -bm 1.000000 control_panel_normal.png
