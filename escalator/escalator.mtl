@@ -1,0 +1,46 @@
+# Blender 4.5.3 LTS MTL File: 'escalator.blend'
+# www.blender.org
+
+newmtl glass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd light_blue.png
+
+newmtl iron
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd dark_gray.png
+map_Ns medieval_forged.png
+map_refl medieval_forged.png
+map_Bump -bm 0.600000 medieval_forged_normal_.png
+
+newmtl metarial
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd dark_gray.png
+
+newmtl ribs
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ribs_diffuse.png
+map_Ns ribs_metalness.png
+map_refl ribs_metalness.png
+map_Bump -bm 1.000000 ribs_normal.png
